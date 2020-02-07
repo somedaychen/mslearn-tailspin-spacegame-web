@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/superrichard77/HellowWorld/_apis/build/status/somedaychen.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/superrichard77/HellowWorld/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
